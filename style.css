@@ -1,12 +1,12 @@
 .container {
     background: gray;
-    height: 100vh;
+    height: 1920px;
     margin: 0 auto;
     background-image: url(backround.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    width: 50%;
+    width: 1080px;
 }
 
 .PP {
